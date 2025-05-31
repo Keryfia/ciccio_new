@@ -40,12 +40,18 @@ def update_proxy_links(m3u8_filepath, env_filepath):
                 lines_to_write.append(original_line) # Mantieni la riga originale con il suo newline
                 continue
                 
-            if stripped_line.startswith(placeholder_to_replace):
+            # Gestisce sia i placeholder che gli URL duplicati
+            duplicate_path = "/proxy/mpd/manifest.m3u8/proxy/mpd/manifest.m3u8"
+            if placeholder_to_replace in stripped_line:
                 # Sostituisci il placeholder con il proxy_base_url
-                modified_content = stripped_line.replace(placeholder_to_replace, proxy_base_url, 1)
-                if modified_content != stripped_line:
-                    processed_line = modified_content + '\n' # Assicura che la riga modificata abbia un newline
-                    updated_count += 1
+                modified_content = stripped_line.replace(placeholder_to_replace, proxy_base_url.rstrip('/'), 1)
+                processed_line = modified_content + '\n'
+                updated_count += 1
+            elif duplicate_path in stripped_line:
+                # Correggi URL duplicati
+                modified_content = stripped_line.replace(duplicate_path, "/proxy/mpd/manifest.m3u8")
+                processed_line = modified_content + '\n'
+                updated_count += 1
                     
             lines_to_write.append(processed_line)
 
