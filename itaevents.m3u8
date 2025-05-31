@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Russia - Premier League - Olimpiyets vs Sochi" tvg-name="16:00 Russia - Premier League : Olimpiyets vs Sochi - 31/05/25" tvg-logo="https://seeklogo.com/images/F/fk-volga-nizhny-novgorod-current-logo-E348B8B978-seeklogo.com.png" group-title="Calcio - 16:00 Russia - Premier League : Olimpiyets vs Sochi - 31/05/25", MATCH! Premier Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Olimpiyets vs Sochi" tvg-name="16:00 Russia - Premier League : Olimpiyets vs Sochi - 31/05/25" tvg-logo="https://cdn.footystats.org/img/teams/russia-fk-olimpiyets-nizhny-novgorod.png" group-title="Calcio - 16:00 Russia - Premier League : Olimpiyets vs Sochi - 31/05/25", MATCH! Premier Russia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-573.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Russia - Premier League - Akhmat Grozny vs Ural" tvg-name="18:30 Russia - Premier League : Akhmat Grozny vs Ural - 31/05/25" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/akhmat_grozny_logo.png" group-title="Calcio - 18:30 Russia - Premier League : Akhmat Grozny vs Ural - 31/05/25", MATCH! Premier Russia
+#EXTINF:-1 tvg-id="Russia - Premier League - Akhmat Grozny vs Ural" tvg-name="18:30 Russia - Premier League : Akhmat Grozny vs Ural - 31/05/25" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/Logo_Akhmat.png/revision/latest?cb=20170911162823" group-title="Calcio - 18:30 Russia - Premier League : Akhmat Grozny vs Ural - 31/05/25", MATCH! Premier Russia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-573.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Egypt - Premier League - Zamalek vs Pharco" tvg-name="19:00 Egypt - Premier League : Zamalek vs Pharco - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Zamalek_vs_Pharco.png" group-title="Calcio - 19:00 Egypt - Premier League : Zamalek vs Pharco - 31/05/25", ON Time Sports Egypt
@@ -182,22 +182,19 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Brazil - Serie B - Coritiba vs Avaí" tvg-name="21:00 Brazil - Serie B : Coritiba vs Avaí - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Coritiba_vs_Ava%C3%AD.png" group-title="Calcio - 21:00 Brazil - Serie B : Coritiba vs Avaí - 31/05/25", ESPN Brazil
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-81.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Canadian Premier League - Forge vs Cavalry" tvg-name="23:00 Canadian Premier League : Forge vs Cavalry - 31/05/25" tvg-logo="https://companieslogo.com/img/orig/BHARATFORG.NS-ed04c2f6.png?t=1613407724" group-title="Calcio - 23:00 Canadian Premier League : Forge vs Cavalry - 31/05/25", TSN3
+#EXTINF:-1 tvg-id="Canadian Premier League - Forge vs Cavalry" tvg-name="23:00 Canadian Premier League : Forge vs Cavalry - 31/05/25" tvg-logo="https://storage.googleapis.com/replit/images/1654232400062_57239fe5995715e769a2e88f9131ee72.png" group-title="Calcio - 23:00 Canadian Premier League : Forge vs Cavalry - 31/05/25", TSN3
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-113.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Canadian Premier League - York United vs HFX Wanderers" tvg-name="01:00 Canadian Premier League : York United vs HFX Wanderers - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/York%20United_vs_HFX%20Wanderers.png" group-title="Calcio - 01:00 Canadian Premier League : York United vs HFX Wanderers - 31/05/25", Fox Sports 2 USA
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-758.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="http://store.thebosco.com/cdn/shop/files/unisex-organic-cotton-t-shirt-black-front-65c5a7f757b2c.png?v=1707452496" group-title="Atp - Roland Garros - 01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://statics-files.tycsports.com/banderas/p33.png?v=2" group-title="Atp - Roland Garros - 01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="http://store.thebosco.com/cdn/shop/files/unisex-organic-cotton-t-shirt-black-front-65c5a7f757b2c.png?v=1707452496" group-title="Atp - Roland Garros - 01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://statics-files.tycsports.com/banderas/p33.png?v=2" group-title="Atp - Roland Garros - 01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="http://store.thebosco.com/cdn/shop/files/unisex-organic-cotton-t-shirt-black-front-65c5a7f757b2c.png?v=1707452496" group-title="Atp - Roland Garros - 01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25", Tennis Stream
-http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
-
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros - 03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Griekspoor T. vs Quinn E." tvg-name="01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25" tvg-logo="https://statics-files.tycsports.com/banderas/p33.png?v=2" group-title="Atp - Roland Garros - 01:30 ATP - ROLAND GARROS : Griekspoor T. vs Quinn E. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros - 03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25", Tennis Stream
@@ -206,13 +203,16 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros - 03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://cdn.vintagegrail.com/uploads/watch/2023-05-26/rm67-02-1-2-photoroom_16-48-02-409753.png" group-title="Atp - Roland Garros - 04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Lehecka J." tvg-name="03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sinner%20J._vs_Lehecka%20J..png" group-title="Atp - Roland Garros - 03:00 ATP - ROLAND GARROS : Sinner J. vs Lehecka J. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://cdn.vintagegrail.com/uploads/watch/2023-05-26/rm67-02-1-2-photoroom_16-48-02-409753.png" group-title="Atp - Roland Garros - 04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Roland Garros - 04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://cdn.vintagegrail.com/uploads/watch/2023-05-26/rm67-02-1-2-photoroom_16-48-02-409753.png" group-title="Atp - Roland Garros - 04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Roland Garros - 04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25", Tennis Stream
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
+
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Zverev A. vs Cobolli F." tvg-name="04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Roland Garros - 04:00 ATP - ROLAND GARROS : Zverev A. vs Cobolli F. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Bublik A. vs Rocha H." tvg-name="04:30 ATP - ROLAND GARROS : Bublik A. vs Rocha H. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Bublik%20A._vs_Rocha%20H..png" group-title="Atp - Roland Garros - 04:30 ATP - ROLAND GARROS : Bublik A. vs Rocha H. - 31/05/25", Tennis Stream
@@ -317,13 +317,13 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Bouzkova M. vs Gauff C." tvg-name="06:00 WTA - ROLAND GARROS : Bouzkova M. vs Gauff C. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Bouzkova%20M._vs_Gauff%20C..png" group-title="Wta - Roland Garros - 06:00 WTA - ROLAND GARROS : Bouzkova M. vs Gauff C. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20221025/original/pngtree-letter-m-logo-design-vector-png-image_8718339.png" group-title="Wta - Roland Garros - 07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://png.pngtree.com/png-vector/20230414/ourmid/pngtree-keyboard-keys-vector-png-image_6705739.png" group-title="Wta - Roland Garros - 07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20221025/original/pngtree-letter-m-logo-design-vector-png-image_8718339.png" group-title="Wta - Roland Garros - 07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://png.pngtree.com/png-vector/20230414/ourmid/pngtree-keyboard-keys-vector-png-image_6705739.png" group-title="Wta - Roland Garros - 07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://png.pngtree.com/png-clipart/20221025/original/pngtree-letter-m-logo-design-vector-png-image_8718339.png" group-title="Wta - Roland Garros - 07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Keys M. vs Kenin S." tvg-name="07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25" tvg-logo="https://png.pngtree.com/png-vector/20230414/ourmid/pngtree-keyboard-keys-vector-png-image_6705739.png" group-title="Wta - Roland Garros - 07:00 WTA - ROLAND GARROS : Keys M. vs Kenin S. - 31/05/25", Tennis Stream
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E." tvg-name="01:30 ATP DOUBLES - ROLAND GARROS : Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E. - 31/05/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Roger-Vasselin%20E..png" group-title="Atp Doubles - Roland Garros - 01:30 ATP DOUBLES - ROLAND GARROS : Duckworth J./Vukic A. vs Nys H./Roger-Vasselin E. - 31/05/25", Tennis Stream
