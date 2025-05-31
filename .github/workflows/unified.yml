@@ -139,6 +139,7 @@ jobs:
         run: |
           python itaevents.py
           python fullita.py
+          python mpdenv.py
 
       - name: "STEP 8: Run mergelists"
         run: |
