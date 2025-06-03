@@ -1,370 +1,370 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Women's Nations League - Spain vs England" tvg-name="19:00 UEFA Women's Nations League : Spain vs England - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Spain_vs_England.png" group-title="Calcio", SuperSport Premier League
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="UEFA Women's Nations League - Spain vs England" tvg-name="19:00 UEFA Women's Nations League : Spain vs England - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Spain_vs_England.png" group-title="Calcio - 19:00 UEFA Women's Nations League : Spain vs England - 03/06/25", SuperSport Premier League
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Tiafoe F." tvg-name="14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25" tvg-logo="http://musettishop.com/cdn/shop/files/musetti_boulescopia_1200x1200.png?v=1696582564" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Tiafoe F." tvg-name="14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/musetti-espresso-logo-png-transparent.png" group-title="Tennis Atp - Roland Garros - 14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25", Tennis Stream 16
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Tiafoe F." tvg-name="14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25" tvg-logo="http://musettishop.com/cdn/shop/files/musetti_boulescopia_1200x1200.png?v=1696582564" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Tiafoe F." tvg-name="14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/musetti-espresso-logo-png-transparent.png" group-title="Tennis Atp - Roland Garros - 14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Tiafoe F." tvg-name="14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25" tvg-logo="http://musettishop.com/cdn/shop/files/musetti_boulescopia_1200x1200.png?v=1696582564" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Musetti L. vs Tiafoe F." tvg-name="14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/musetti-espresso-logo-png-transparent.png" group-title="Tennis Atp - Roland Garros - 14:00 ATP - ROLAND GARROS : Musetti L. vs Tiafoe F. - 03/06/25", Tennis Stream 1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Paul T. vs Alcaraz C." tvg-name="20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paul%20T._vs_Alcaraz%20C..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 16
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Paul T. vs Alcaraz C." tvg-name="20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Paul%20T._vs_Alcaraz%20C..png" group-title="Tennis Atp - Roland Garros - 20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25", Tennis Stream 16
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Paul T. vs Alcaraz C." tvg-name="20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paul%20T._vs_Alcaraz%20C..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Paul T. vs Alcaraz C." tvg-name="20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Paul%20T._vs_Alcaraz%20C..png" group-title="Tennis Atp - Roland Garros - 20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Paul T. vs Alcaraz C." tvg-name="20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paul%20T._vs_Alcaraz%20C..png" group-title="Tennis Atp - Roland Garros", Tennis Stream 1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Paul T. vs Alcaraz C." tvg-name="20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Paul%20T._vs_Alcaraz%20C..png" group-title="Tennis Atp - Roland Garros - 20:15 ATP - ROLAND GARROS : Paul T. vs Alcaraz C. - 03/06/25", Tennis Stream 1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Zheng Q." tvg-name="11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sabalenka%20A._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Zheng Q." tvg-name="11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sabalenka%20A._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros - 11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25", Tennis Stream 16
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Zheng Q." tvg-name="11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sabalenka%20A._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Zheng Q." tvg-name="11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sabalenka%20A._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros - 11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25", Tennis Stream 1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Zheng Q." tvg-name="11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Sabalenka%20A._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Zheng Q." tvg-name="11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sabalenka%20A._vs_Zheng%20Q..png" group-title="Tennis Wta - Roland Garros - 11:00 WTA - ROLAND GARROS : Sabalenka A. vs Zheng Q. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Svitolina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Svitolina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Svitolina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Svitolina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros - 12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25", Tennis Stream 16
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Svitolina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Svitolina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Svitolina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Svitolina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros - 12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25", Tennis Stream 1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Svitolina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Svitolina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Svitolina E. vs Swiatek I." tvg-name="12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Svitolina%20E._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros - 12:30 WTA - ROLAND GARROS : Svitolina E. vs Swiatek I. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Harrison C./King E. vs Heliovaara H./Patten H." tvg-name="11:00 ATP DOUBLES - ROLAND GARROS : Harrison C./King E. vs Heliovaara H./Patten H. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Patten%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Harrison C./King E. vs Heliovaara H./Patten H." tvg-name="11:00 ATP DOUBLES - ROLAND GARROS : Harrison C./King E. vs Heliovaara H./Patten H. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Patten%20H..png" group-title="Tennis Atp Doubles - Roland Garros - 11:00 ATP DOUBLES - ROLAND GARROS : Harrison C./King E. vs Heliovaara H./Patten H. - 03/06/25", Tennis Stream 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Harrison C./King E. vs Heliovaara H./Patten H." tvg-name="11:00 ATP DOUBLES - ROLAND GARROS : Harrison C./King E. vs Heliovaara H./Patten H. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Patten%20H..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 23
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Harrison C./King E. vs Heliovaara H./Patten H." tvg-name="11:00 ATP DOUBLES - ROLAND GARROS : Harrison C./King E. vs Heliovaara H./Patten H. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Patten%20H..png" group-title="Tennis Atp Doubles - Roland Garros - 11:00 ATP DOUBLES - ROLAND GARROS : Harrison C./King E. vs Heliovaara H./Patten H. - 03/06/25", Tennis Stream 23
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Ebden M./Peers J." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Ebden M./Peers J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Peers%20J..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Ebden M./Peers J." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Ebden M./Peers J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Peers%20J..png" group-title="Tennis Atp Doubles - Roland Garros - 12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Ebden M./Peers J. - 03/06/25", Tennis Stream 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Ebden M./Peers J." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Ebden M./Peers J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Peers%20J..png" group-title="Tennis Atp Doubles - Roland Garros", Tennis Stream 23
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ATP DOUBLES - ROLAND GARROS - Salisbury J./Skupski N. vs Ebden M./Peers J." tvg-name="12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Ebden M./Peers J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Peers%20J..png" group-title="Tennis Atp Doubles - Roland Garros - 12:30 ATP DOUBLES - ROLAND GARROS : Salisbury J./Skupski N. vs Ebden M./Peers J. - 03/06/25", Tennis Stream 23
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Errani S./Paolini J." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 2
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Errani S./Paolini J." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Paolini%20J..png" group-title="Tennis Wta Doubles - Roland Garros - 11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25", Tennis Stream 2
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Errani S./Paolini J." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Errani S./Paolini J." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Paolini%20J..png" group-title="Tennis Wta Doubles - Roland Garros - 11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Errani S./Paolini J." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Paolini%20J..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 22
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Kudermetova V./Mertens E. vs Errani S./Paolini J." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Paolini%20J..png" group-title="Tennis Wta Doubles - Roland Garros - 11:00 WTA DOUBLES - ROLAND GARROS : Kudermetova V./Mertens E. vs Errani S./Paolini J. - 03/06/25", Tennis Stream 22
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Andreeva M./Shnaider D." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 2
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Andreeva M./Shnaider D." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros - 11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25", Tennis Stream 2
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Andreeva M./Shnaider D." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Andreeva M./Shnaider D." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros - 11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Andreeva M./Shnaider D." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros", Tennis Stream 22
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WTA DOUBLES - ROLAND GARROS - Danilovic O./Potapova A. vs Andreeva M./Shnaider D." tvg-name="11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Shnaider%20D..png" group-title="Tennis Wta Doubles - Roland Garros - 11:00 WTA DOUBLES - ROLAND GARROS : Danilovic O./Potapova A. vs Andreeva M./Shnaider D. - 03/06/25", Tennis Stream 22
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Townsend T./King E. vs Siegemund L./Roger-Vasselin E." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Townsend T./King E. vs Siegemund L./Roger-Vasselin E. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Roger-Vasselin%20E..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Townsend T./King E. vs Siegemund L./Roger-Vasselin E." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Townsend T./King E. vs Siegemund L./Roger-Vasselin E. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Roger-Vasselin%20E..png" group-title="Tennis Mixed Doubles - Roland Garros - 14:00 MIXED DOUBLES - ROLAND GARROS : Townsend T./King E. vs Siegemund L./Roger-Vasselin E. - 03/06/25", Tennis Stream 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Townsend T./King E. vs Siegemund L./Roger-Vasselin E." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Townsend T./King E. vs Siegemund L./Roger-Vasselin E. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Roger-Vasselin%20E..png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 23
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Townsend T./King E. vs Siegemund L./Roger-Vasselin E." tvg-name="14:00 MIXED DOUBLES - ROLAND GARROS : Townsend T./King E. vs Siegemund L./Roger-Vasselin E. - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Roger-Vasselin%20E..png" group-title="Tennis Mixed Doubles - Roland Garros - 14:00 MIXED DOUBLES - ROLAND GARROS : Townsend T./King E. vs Siegemund L./Roger-Vasselin E. - 03/06/25", Tennis Stream 23
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Krawczyk D./Skupski N." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221025/original/pngtree-letter-m-logo-design-vector-png-image_8718339.png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 2
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Krawczyk D./Skupski N." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25" tvg-logo="https://www.justwatch.com/images/icon/300315028/s166/lyudmyla-kichenok.png" group-title="Tennis Mixed Doubles - Roland Garros - 15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25", Tennis Stream 2
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Krawczyk D./Skupski N." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221025/original/pngtree-letter-m-logo-design-vector-png-image_8718339.png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 21
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Krawczyk D./Skupski N." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25" tvg-logo="https://www.justwatch.com/images/icon/300315028/s166/lyudmyla-kichenok.png" group-title="Tennis Mixed Doubles - Roland Garros - 15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25", Tennis Stream 21
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Krawczyk D./Skupski N." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221025/original/pngtree-letter-m-logo-design-vector-png-image_8718339.png" group-title="Tennis Mixed Doubles - Roland Garros", Tennis Stream 22
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="MIXED DOUBLES - ROLAND GARROS - Kichenok L./Pavic M. vs Krawczyk D./Skupski N." tvg-name="15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25" tvg-logo="https://www.justwatch.com/images/icon/300315028/s166/lyudmyla-kichenok.png" group-title="Tennis Mixed Doubles - Roland Garros - 15:30 MIXED DOUBLES - ROLAND GARROS : Kichenok L./Pavic M. vs Krawczyk D./Skupski N. - 03/06/25", Tennis Stream 22
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT Sports 1 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT Sports 4 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT USA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", truTV USA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TSN1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TSN4
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TSN5
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT Sports 5 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT Sports 6 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT Sports 7 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", TNT Sports 8 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", France 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", Sky Sport 1 NZ
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", Sky Sport 2 NZ
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", SONY TEN 1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", SONY TEN 2
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", SONY TEN 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", beIN Sports 2 Malaysia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", beIN Sports 1 Malaysia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", beIN Sports 3 Malaysia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", EuroSport 2 Poland
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", EuroSport 1 Spain
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", Eurosport 2 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", EuroSport 2 France
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", Eurosport 1 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", Eurosport 2 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", EuroSport 2 Italy
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", EuroSport 2 Greece
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", ESPN2 Argentina
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Men | Singles | Quarter-Final - Roland-Garros Men | Singles | Quarter-Final" tvg-name="11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 11:00 Roland-Garros Men | Singles | Quarter-Final - 03/06/25", Eurosport 2 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 1 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT Sports 1 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-31.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 4 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT Sports 4 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-34.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT USA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT USA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-338.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", truTV USA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", truTV USA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-341.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TSN1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-111.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN4
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TSN4
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TSN5
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TSN5
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 5 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT Sports 5 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-211.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 6 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT Sports 6 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-212.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 7 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT Sports 7 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-213.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TNT Sports 8 UK
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", TNT Sports 8 UK
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-214.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", France 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", France 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-951.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 1 NZ
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", Sky Sport 1 NZ
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-588.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport 2 NZ
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", Sky Sport 2 NZ
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-589.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 1
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", SONY TEN 1
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-885.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 2
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", SONY TEN 2
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-886.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", SONY TEN 3
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", SONY TEN 3
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-887.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", beIN Sports 2 Malaysia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-713.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 1 Malaysia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", beIN Sports 1 Malaysia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-712.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 3 Malaysia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", beIN Sports 3 Malaysia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-714.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Poland
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", EuroSport 2 Poland
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-58.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 1 Spain
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", EuroSport 1 Spain
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-524.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", Eurosport 2 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 France
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", EuroSport 2 France
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-773.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 1 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", Eurosport 1 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-231.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", Eurosport 2 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Italy
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", EuroSport 2 Italy
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-879.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", EuroSport 2 Greece
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", EuroSport 2 Greece
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-42.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", ESPN2 Argentina
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", ESPN2 Argentina
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Eurosport 2 SE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Roland-Garros Women | Singles | Quarter-Final - Roland-Garros Women | Singles | Quarter-Final" tvg-name="16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis - 16:00 Roland-Garros Women | Singles | Quarter-Final - 03/06/25", Eurosport 2 SE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-232.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Lithuanian League - Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos" tvg-name="17:50 Lithuanian League: Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/2%20Final%20%28G3%29%20%3A%20Zalgiris_vs_Jonavos.png" group-title="Basket", Sport Klub 2 Croatia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Lithuanian League - Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos" tvg-name="17:50 Lithuanian League: Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/2%20Final%20%28G3%29%20%3A%20Zalgiris_vs_Jonavos.png" group-title="Basket - 17:50 Lithuanian League: Playoff - 1/2 Final (G3) : Zalgiris vs Jonavos - 03/06/25", Sport Klub 2 Croatia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="FRENCH LEAGUE - Semi-finals" tvg-name="18:00 FRENCH LEAGUE : Semi-finals - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Arena Sport 2 Serbia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="FRENCH LEAGUE - Semi-finals" tvg-name="18:00 FRENCH LEAGUE : Semi-finals - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket - 18:00 FRENCH LEAGUE : Semi-finals - 03/06/25", Arena Sport 2 Serbia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-430.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket", Match Igra Russia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket - 18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25", Match Igra Russia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-17.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket", Match TV Russia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-127.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket - 18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25", Match TV Russia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-127.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket", Arena 2 Premium Serbia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="VTB United League - CSKA Moscow vs Zenit Petersburg" tvg-name="18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/CSKA%20Moscow_vs_Zenit%20Petersburg.png" group-title="Basket - 18:30 VTB United League : CSKA Moscow vs Zenit Petersburg - 03/06/25", Arena 2 Premium Serbia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-135.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", Movistar Deportes Spain
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", Movistar Deportes Spain
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", Arena 1 Premium Serbia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", Arena 1 Premium Serbia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", DAZN Eleven 1 Portugal
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", DAZN Eleven 1 Portugal
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", Cosmote Sport 5 Greece
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", Cosmote Sport 5 Greece
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-626.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", Sportdigital+ DE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", Sportdigital+ DE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", Sport Klub 1 Croatia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", Sport Klub 1 Croatia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket", Sport 4 Israel
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Real Madrid vs Baskonia" tvg-name="19:00 ACB : Real Madrid vs Baskonia - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Real%20Madrid_vs_Baskonia.png" group-title="Basket - 19:00 ACB : Real Madrid vs Baskonia - 03/06/25", Sport 4 Israel
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Super League - Hapoel Tel-Aviv vs Hapoel M. Jerusalem" tvg-name="19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25" tvg-logo="https://seeklogo.com/images/H/hapoel-tel-aviv-logo-2102BB09D8-seeklogo.com.png" group-title="Basket", Sport Klub 3 Croatia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Super League - Hapoel Tel-Aviv vs Hapoel M. Jerusalem" tvg-name="19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Hapoel_Tel_Aviv_F.C.png" group-title="Basket - 19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25", Sport Klub 3 Croatia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Super League - Hapoel Tel-Aviv vs Hapoel M. Jerusalem" tvg-name="19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25" tvg-logo="https://seeklogo.com/images/H/hapoel-tel-aviv-logo-2102BB09D8-seeklogo.com.png" group-title="Basket", Sport 5 Israel
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Super League - Hapoel Tel-Aviv vs Hapoel M. Jerusalem" tvg-name="19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Hapoel_Tel_Aviv_F.C.png" group-title="Basket - 19:50 Super League : Hapoel Tel-Aviv vs Hapoel M. Jerusalem - 03/06/25", Sport 5 Israel
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final A (G1)" tvg-name="21:00 French League: Playoffs - 1/2 Final A (G1) - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport Klub 2 Croatia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final A (G1)" tvg-name="21:00 French League: Playoffs - 1/2 Final A (G1) - 03/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket - 21:00 French League: Playoffs - 1/2 Final A (G1) - 03/06/25", Sport Klub 2 Croatia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", Movistar Deportes Spain
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", Movistar Deportes Spain
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", M+ #Vamos ES
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", M+ #Vamos ES
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", Arena 1 Premium Serbia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", Arena 1 Premium Serbia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", DAZN Eleven 1 Portugal
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", DAZN Eleven 1 Portugal
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", Cosmote Sport 7 Greece
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", Cosmote Sport 7 Greece
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", Sport Klub 1 Croatia
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", Sport Klub 1 Croatia
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", Sportdigital+ DE
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", Sportdigital+ DE
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket", Sport 4 Israel
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="ACB - Unicaja vs Barcelona" tvg-name="21:15 ACB : Unicaja vs Barcelona - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Unicaja_vs_Barcelona.png" group-title="Basket - 21:15 ACB : Unicaja vs Barcelona - 03/06/25", Sport 4 Israel
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Brazil NBB - Flamengo vs Sesi Franca Basquete" tvg-name="01:00 Brazil NBB : Flamengo vs Sesi Franca Basquete - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Flamengo_vs_Sesi%20Franca%20Basquete.png" group-title="Basket", Sportv2 Brazil
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="Brazil NBB - Flamengo vs Sesi Franca Basquete" tvg-name="01:00 Brazil NBB : Flamengo vs Sesi Franca Basquete - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Flamengo_vs_Sesi%20Franca%20Basquete.png" group-title="Basket - 01:00 Brazil NBB : Flamengo vs Sesi Franca Basquete - 03/06/25", Sportv2 Brazil
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket", Monumental Sports Network
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket - 01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25", Monumental Sports Network
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-778.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket", NBA TV USA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket - 01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25", NBA TV USA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-404.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket", Sportsnet 360 CA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-409.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket - 01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25", Sportsnet 360 CA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-409.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket", Sport 5 Israel
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Washington Mystics W" tvg-name="01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Indiana%20Fever%20W_vs_Washington%20Mystics%20W.png" group-title="Basket - 01:00 WNBA : Indiana Fever W vs Washington Mystics W - 03/06/25", Sport 5 Israel
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-144.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Phoenix%20Mercury%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket", WNBA League Pass
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Phoenix%20Mercury%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket - 02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25", WNBA League Pass
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-18.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Phoenix%20Mercury%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket", FanDuel Sports Network North
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Minnesota Lynx W" tvg-name="02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Phoenix%20Mercury%20W_vs_Minnesota%20Lynx%20W.png" group-title="Basket - 02:00 WNBA : Phoenix Mercury W vs Minnesota Lynx W - 03/06/25", FanDuel Sports Network North
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-898.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket", ESPN USA
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket - 03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25", ESPN USA
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-44.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket", TSN4
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket - 03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25", TSN4
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-114.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket", TSN5
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket - 03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25", TSN5
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-115.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket", ESPN2 Argentina
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket - 03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25", ESPN2 Argentina
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-150.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/NOMEGIT/NOMEREPO/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket", ESPN Deportes
-https://link.proxy.mfp/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true&api_password=PASSWORD
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Dallas Wings W" tvg-name="03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Seattle%20Storm%20W_vs_Dallas%20Wings%20W.png" group-title="Basket - 03:30 WNBA : Seattle Storm W vs Dallas Wings W - 03/06/25", ESPN Deportes
+http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-375.php&redirect_stream=true
 
