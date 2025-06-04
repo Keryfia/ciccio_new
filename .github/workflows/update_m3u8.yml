@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       old_domain:
-        description: 'Dominio da sostituire'
+        description: 'Dominio da sostituire (senza http/https)'
         required: true
         default: 'keryfia-newale.hf.space'
         type: string
       new_domain:
-        description: 'Nuovo dominio'
+        description: 'Nuovo dominio (con o senza http/https)'
         required: true
         type: string
       commit_message:
