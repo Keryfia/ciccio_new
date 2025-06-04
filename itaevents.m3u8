@@ -371,10 +371,10 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Vancouver FC" tvg-name="18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Valour_vs_Vancouver%20FC.png" group-title="Calcio - 18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25", Fox Soccer Plus
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Calcio - 21:00 UEFA Nations League : Germany vs Portugal - 04/06/25", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/485/original/germany-flag-round-shape-free-png.png" group-title="Calcio - 21:00 UEFA Nations League : Germany vs Portugal - 04/06/25", TF1 France
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-3.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Calcio - 21:00 UEFA Nations League : Germany vs Portugal - 04/06/25", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Germany vs Portugal" tvg-name="21:00 UEFA Nations League : Germany vs Portugal - 04/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/102/485/original/germany-flag-round-shape-free-png.png" group-title="Calcio - 21:00 UEFA Nations League : Germany vs Portugal - 04/06/25", SuperSport Premier League
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - ROLAND GARROS - Sinner J. vs Bublik A." tvg-name="14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Roland Garros - 14:00 ATP - ROLAND GARROS : Sinner J. vs Bublik A. - 04/06/25", Tennis Stream 16
@@ -701,16 +701,16 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="KLS - Crvena Zvezda Meridianbet vs Spartak Office Shoes" tvg-name="20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Crvena%20Zvezda%20Meridianbet_vs_Spartak%20Office%20Shoes.png" group-title="Basket - 20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes - 04/06/25", Arena 1 Premium Serbia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-134.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", Arena 3 Premium Serbia
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", Arena 3 Premium Serbia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-139.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", ERT 3 Greece
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", ERT 3 Greece
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-9.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", Sportklub 2 Croatia
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", Sportklub 2 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-102.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://seeklogo.com/images/P/panathinaikos-fc-logo-63CAF4954E-seeklogo.com.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", Sport 3 Israel
+#EXTINF:-1 tvg-id="Basket League - Panathinaikos vs Olympiakos" tvg-name="20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Panathinaikos_vs_Olympiakos.png" group-title="Basket - 20:00 Basket League : Panathinaikos vs Olympiakos - 04/06/25", Sport 3 Israel
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-142.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="BBL - MLP Academics Heidelberg vs. Bayern Munich" tvg-name="19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/MLP%20Academics%20Heidelberg_vs_Bayern%20Munich.png" group-title="Basket - 19:55 BBL : MLP Academics Heidelberg vs. Bayern Munich - 04/06/25", Arena Sport 2 Slovakia
@@ -749,34 +749,34 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Basquetebol - FC Porto vs Sporting CP - Camp. Nacional" tvg-name="21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/FC%20Porto_vs_Sporting%20CP%20-%20Camp.%20Nacional.png" group-title="Basket - 21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25", DAZN Eleven 1 Portugal
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Movistar Deportes Spain
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", M+ Vamos Spain
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", M+ Vamos Spain
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Arena Sport 1 Serbia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Canal+ Sport 5 Poland HD
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Canal+ Sport 5 Poland HD
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-75.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportdigital+ DE
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Cosmote Sport 7 Greece
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Cosmote Sport 7 Greece
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportklub 4 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.galdar.es/wp-content/uploads/2018/02/Marca_Cabildo_PNG_linea_Grande.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sport 4 Israel
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sport 4 Israel
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km)" tvg-name="13:30 Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - 04/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo - 13:30 Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - 04/06/25", TNT Sports 3 UK
@@ -812,7 +812,7 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://logodix.com/logo/408419.png" group-title="Pallavolo - 05:30 Nations League Women : France vs. Turkiye - 04/06/25", Max Sport 2 Bulgaria
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://logodix.com/logo/408419.png" group-title="Pallavolo - 05:30 Nations League Women : France vs. Turkiye - 04/06/25", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - France vs. Turkiye" tvg-name="05:30 Nations League Women : France vs. Turkiye - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/France_vs_Turkiye.png" group-title="Pallavolo - 05:30 Nations League Women : France vs. Turkiye - 04/06/25", Sport Klub 1 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Thailand vs Poland" tvg-name="09:00 Nations League Women : Thailand vs Poland - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Thailand_vs_Poland.png" group-title="Pallavolo - 09:00 Nations League Women : Thailand vs Poland - 04/06/25", Polsat Sport 1 Poland
@@ -827,7 +827,7 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo - 13:30 Nations League Women : China vs. Belgium - 04/06/25", Max Sport 2 Bulgaria
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-473.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/china-flag-round-circle-icon.png" group-title="Pallavolo - 13:30 Nations League Women : China vs. Belgium - 04/06/25", Sport Klub 1 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo - 13:30 Nations League Women : China vs. Belgium - 04/06/25", Sport Klub 1 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Netherlands vs Japan" tvg-name="17:00 Nations League Women : Netherlands vs Japan - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Netherlands_vs_Japan.png" group-title="Pallavolo - 17:00 Nations League Women : Netherlands vs Japan - 04/06/25", Polsat Sport 2 Poland
