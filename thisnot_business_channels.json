@@ -77,7 +77,7 @@
       "category": "BASKET",
       "title": "NBA FINALS, GARA 2 - USA",
       "date": "LUNEDI 9 GIUGNO",
-      "event": "20:45 Virtus Bologna v EA7 Milano (Gara 3)",
+      "event": "20:45 Virtus Bologna v EA7 Milano (Gara 4)",
       "channel": "Eurosport 2",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport2_IT"
@@ -93,6 +93,18 @@
       "channel": "Sky Sport",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=SportNBA_IT"
+    }
+  },
+  "https://thisnot.business/player.php?id=SportMotoGP_IT": {
+    "proxy_url": "http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd%3F%26ck%3DMDAzNjJlOTE4MWVhYTBjNWY5MTc2MWFkZTM1MTVlYjg6NTJjZjNjMjc4ODVkNThhZDc2YWFmMzZkNDIxN2E5ODQ%3D&key_id=00362e9181eaa0c5f91761ade3515eb8&key=52cf3c27885d58ad76aaf36d4217a984",
+    "info": {
+      "category": "MOTOMONDIALE",
+      "title": "GP ARAGON - SPAGNA",
+      "date": "VENERDI 6 GIUGNO",
+      "event": "14:00 MotoGP - Gara",
+      "channel": "Sky Sport",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportMotoGP_IT"
     }
   },
   "https://thisnot.business/player.php?id=Sport24_IT": {
