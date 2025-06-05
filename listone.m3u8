@@ -1400,6 +1400,14 @@ https://xuione.sportstreaming.net/SportStreaming/SportStreaming/8.m3u8&h_user-ag
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/67039b6f4b47a.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
+https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68408d45dd057.png" tvg-name="Calcio",Spagna vs Francia (SZ)
 https://hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68408c69cbabe.jpg" tvg-name="Calcio",Australia vs Giappone (SZ)
@@ -1410,20 +1418,24 @@ https://hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%
 https://hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68408d226fe91.png" tvg-name="Calcio",Iraq vs Corea del Sud (SZ)
 https://hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6683b5fc5db3b.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
-https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/683314cb4347a.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES1 (SZ)
-https://hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6833150a6f561.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES2 (SZ)
-https://hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
-#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
-https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68408d662a2a7.png" tvg-name="Calcio",Ecuador vs Brasile (SZ)
 https://hls.kangal.icu/hls/brasile/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68408d86f1dda.png" tvg-name="Calcio",Paraguay vs Uruguay (SZ)
 https://hls.kangal.icu/hls/parag/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 #EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/68408da4c878c.png" tvg-name="Calcio",Cile vs Argentina (SZ)
 https://hls.kangal.icu/hls/argen/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6683b5fc5db3b.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
+https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/683314cb4347a.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES1 (SZ)
+https://hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6833150a6f561.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES2 (SZ)
+https://hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/6683b5df0dd12.jpg" tvg-name="Tennis",ATP & WTA vs Sky Sport Tennis (SZ)
+https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/683314ac39657.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES1 (SZ)
+https://hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
+#EXTINF:-1 group-title="Sport;SportZone" tvg-logo="https://sportzone.yoga//images/683314eb927b2.png" tvg-name="Tennis",ATP - SINGOLARE - Open di Francia vs ES2 (SZ)
+https://hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 # Playlist generata da Hattrick
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport", Sky Sport 24 (Hd)
 http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd%3F%26ck%3DMDAzNjYzZGRmMWFjYjI1ZWE4OGE3Y2Y5NzNhZmMwZDU6MzVlYTkxYjQxNTFkNjk3NTAwNzk5OGMzMjhkYWVlNmM%3D&key_id=003663ddf1acb25ea88a7cf973afc0d5&key=35ea91b4151d6975007998c328daee6c
@@ -1535,83 +1547,104 @@ http://192.168.0.241:8888/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lswcd
 http://192.168.0.241:8888/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
-https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Arena (SS)
-https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport251.it" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 251 (SS)
-https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport258.it" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 258 (SS)
-https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Calcio (SS)
-https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Uno (SS)
-https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport256.it" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 256 (SS)
-https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport254.it" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 254 (SS)
-https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport261.it" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 261 (SS)
-https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 1 (SS)
-https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport257.it" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 257 (SS)
-https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 2 (SS)
-https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
-https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
 #EXTINF:-1 tvg-id="skysport253.it" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 253 (SS)
 https%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport NBA (SS)
-https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 24 (SS)
-https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Germania vs Portogallo" tvg-name="Germania vs Portogallo" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Germania vs Portogallo (SS)
-https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Golf (SS)
-https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Tennis (SS)
-https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES1" tvg-name="ATP - SINGOLARE vs Open di Francia ES1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", ATP - SINGOLARE vs Open di Francia ES1 (SS)
+https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysport252.it" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 252 (SS)
 https%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Max (SS)
-https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Golf (SS)
+https%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport MotoGP (SS)
-https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="skysport256.it" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 256 (SS)
+https%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
-#EXTINF:-1 tvg-id="skysport260.it" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 260 (SS)
-https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport NBA (SS)
+https%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 2 (SS)
+https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport258.it" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 258 (SS)
+https%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Cile vs Argentina" tvg-name="Cile vs Argentina" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Cile vs Argentina (SS)
+https%3A//hls.kangal.icu/hls/argen/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Tennis (SS)
+https%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Calcio (SS)
+https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport F1 (SS)
 https%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
+#EXTINF:-1 tvg-id="Iraq vs Corea del Sud" tvg-name="Iraq vs Corea del Sud" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Iraq vs Corea del Sud (SS)
+https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport MotoGP (SS)
+https%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
 #EXTINF:-1 tvg-id="skysport255.it" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 255 (SS)
 https%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
+#EXTINF:-1 tvg-id="skysport251.it" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 251 (SS)
+https%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Bahrain vs Arabia Saudita" tvg-name="Bahrain vs Arabia Saudita" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Bahrain vs Arabia Saudita (SS)
+https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport254.it" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 254 (SS)
+https%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Arena (SS)
+https%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport260.it" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 260 (SS)
+https%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Paraguay vs Uruguay" tvg-name="Paraguay vs Uruguay" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Paraguay vs Uruguay (SS)
+https%3A//hls.kangal.icu/hls/parag/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Ecuador vs Brasile" tvg-name="Ecuador vs Brasile" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Ecuador vs Brasile (SS)
+https%3A//hls.kangal.icu/hls/brasile/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Indonesia vs Cina" tvg-name="Indonesia vs Cina" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Indonesia vs Cina (SS)
+https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="eurosport1.it" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Eurosport 1 (SS)
+https%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Max (SS)
+https%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Australia vs Giappone" tvg-name="Australia vs Giappone" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Australia vs Giappone (SS)
+https%3A//hls.kangal.icu/hls/asia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 24 (SS)
+https%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="ATP - SINGOLARE vs Open di Francia ES2" tvg-name="ATP - SINGOLARE vs Open di Francia ES2" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", ATP - SINGOLARE vs Open di Francia ES2 (SS)
+https%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport257.it" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 257 (SS)
+https%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysport261.it" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 261 (SS)
+https%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
 #EXTINF:-1 tvg-id="skysport259.it" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport 259 (SS)
 https%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="Spagna vs Francia" tvg-name="Spagna vs Francia" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Spagna vs Francia (SS)
+https%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
+
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.yoga/content/auto_site_logo.png" group-title="Sport;SkyStreaming", Sky Sport Uno (SS)
+https%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.yoga/&h_origin=https%3A//skystreaming.yoga
 
 #EXTINF:-1 tvg-id="Canadian Premier League - Valour vs Vancouver FC" tvg-name="18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Valour_vs_Vancouver%20FC.png" group-title="Calcio - 18:00 Canadian Premier League : Valour vs Vancouver FC - 04/06/25", Fox Soccer Plus
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-756.php&redirect_stream=true
@@ -1889,7 +1922,7 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="NBL - Wellington Saints vs Franklin Bulls" tvg-name="08:00 NBL : Wellington Saints vs Franklin Bulls - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Wellington%20Saints_vs_Franklin%20Bulls.png" group-title="Basket - 08:00 NBL : Wellington Saints vs Franklin Bulls - 04/06/25", Sky Sport 3 NZ
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-590.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Polish Basketball League - Lublin vs Trefl Sopot" tvg-name="17:30 Polish Basketball League : Lublin vs Trefl Sopot - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/48/3/lublin-logo-png_seeklogo-487661.png" group-title="Basket - 17:30 Polish Basketball League : Lublin vs Trefl Sopot - 04/06/25", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Polish Basketball League - Lublin vs Trefl Sopot" tvg-name="17:30 Polish Basketball League : Lublin vs Trefl Sopot - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Lublin_vs_Trefl%20Sopot.png" group-title="Basket - 17:30 Polish Basketball League : Lublin vs Trefl Sopot - 04/06/25", Polsat Sport 1 Poland
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Lithuanian League - Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis" tvg-name="17:50 Lithuanian League: Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/2%20Final%20%28G3%29%20%3A%20Rytas_vs_Lietkabelis.png" group-title="Basket - 17:50 Lithuanian League: Playoffs - 1/2 Final (G3) : Rytas vs Lietkabelis - 04/06/25", Sport Klub 5 Croatia
@@ -1994,34 +2027,34 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Basquetebol - FC Porto vs Sporting CP - Camp. Nacional" tvg-name="21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/FC%20Porto_vs_Sporting%20CP%20-%20Camp.%20Nacional.png" group-title="Basket - 21:00 Basquetebol: FC Porto vs Sporting CP - Camp. Nacional - 04/06/25", DAZN Eleven 1 Portugal
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-455.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Movistar Deportes Spain
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-436.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", M+ Vamos Spain
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", M+ Vamos Spain
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-521.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Arena Sport 1 Serbia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-429.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Canal+ Sport 5 Poland HD
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Canal+ Sport 5 Poland HD
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-75.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportdigital+ DE
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-640.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", DAZN Eleven 3 Portugal
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-457.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Cosmote Sport 7 Greece
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Cosmote Sport 7 Greece
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-628.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportklub 4 Croatia
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sportklub 4 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-104.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://www.pikpng.com/pngl/b/147-1471758_cb-gran-canaria-clipart.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sport 4 Israel
+#EXTINF:-1 tvg-id="ACB - Gran Canaria vs Valencia" tvg-name="21:15 ACB : Gran Canaria vs Valencia - 04/06/25" tvg-logo="https://images.seeklogo.com/logo-png/33/3/gran-canaria-logo-png_seeklogo-335478.png" group-title="Basket - 21:15 ACB : Gran Canaria vs Valencia - 04/06/25", Sport 4 Israel
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-143.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km)" tvg-name="13:30 Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - 04/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ciclismo - 13:30 Tour of Slovenia | Stage 1 Men | Piran - Skofljica (168.7km) - 04/06/25", TNT Sports 3 UK
@@ -2066,7 +2099,7 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Nations League Women - Thailand vs Poland" tvg-name="09:00 Nations League Women : Thailand vs Poland - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Thailand_vs_Poland.png" group-title="Pallavolo - 09:00 Nations League Women : Thailand vs Poland - 04/06/25", Sport Klub 1 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-101.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/china-flag-round-circle-icon.png" group-title="Pallavolo - 13:30 Nations League Women : China vs. Belgium - 04/06/25", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo - 13:30 Nations League Women : China vs. Belgium - 04/06/25", Polsat Sport 1 Poland
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-47.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - China vs. Belgium" tvg-name="13:30 Nations League Women : China vs. Belgium - 04/06/25" tvg-logo="https://images.vexels.com/media/users/3/163812/isolated/preview/43b163861168b8267f5999843d953346-china-flag-language-icon-circle.png" group-title="Pallavolo - 13:30 Nations League Women : China vs. Belgium - 04/06/25", Max Sport 2 Bulgaria
@@ -2114,13 +2147,13 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Nations League Women - Dominican Republic vs Serbia" tvg-name="22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Dominican%20Republic_vs_Serbia.png" group-title="Pallavolo - 22:00 Nations League Women : Dominican Republic vs Serbia - 04/06/25", Sport Klub HD Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-453.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo - 22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25", Polsat Sport 2 Poland
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo - 22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25", Polsat Sport 2 Poland
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-50.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo - 22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25", Sportv2 Brazil
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo - 22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25", Sportv2 Brazil
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-79.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo - 22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="Nations League Women - Czech Republic vs Brazil" tvg-name="22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo - 22:30 Nations League Women : Czech Republic vs Brazil - 04/06/25", Sport Klub 3 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Nations League Women - Bulgaria vs. Canada" tvg-name="01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Bulgaria_vs_Canada.png" group-title="Pallavolo - 01:30 Nations League Women : Bulgaria vs. Canada - 04/06/25", Polsat Sport 1 Poland
@@ -2141,10 +2174,10 @@ http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="Nations League Women - South Korea vs Germany" tvg-name="02:00 Nations League Women : South Korea vs Germany - 04/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749038252_germany-x-portugal.png" group-title="Pallavolo - 02:00 Nations League Women : South Korea vs Germany - 04/06/25", Sport Klub 3 Croatia
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-103.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Calcio - 21:00 UEFA Nations League : Spain vs France - 05/06/25", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Spain_vs_France.png" group-title="Calcio - 21:00 UEFA Nations League : Spain vs France - 05/06/25", TF1 France
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-469.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20221230/original/pngtree-spain-flag-round-shape-png-image_8832627.png" group-title="Calcio - 21:00 UEFA Nations League : Spain vs France - 05/06/25", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Spain_vs_France.png" group-title="Calcio - 21:00 UEFA Nations League : Spain vs France - 05/06/25", SuperSport Premier League
 http://192.168.0.241:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Swiatek I." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Swiatek I. - 05/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Sabalenka%20A._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros - 15:00 WTA - ROLAND GARROS : Sabalenka A. vs Swiatek I. - 05/06/25", Tennis Stream 16
