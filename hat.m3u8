@@ -63,15 +63,3 @@ http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//linear311-it-dash1
 #EXTINF:-1 tvg-id="" tvg-name="euro2 " tvg-logo="" group-title="Altro", euro2 (H)
 http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master_stereo.mpd&key_id=003670a7034342a4a07c91173818c61c&key=7b90055c1a1ea34d9090e9ebf6c4db8a
 
-#EXTINF:-1 tvg-id="" tvg-name="euro3hd " tvg-logo="" group-title="Altro", euro3hd (Hd)
-http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport3%29/manifest.mpd&key_id=1e2398b0eeb04829b4711e14b4a91244&key=11e26659ebfecf6a22ed56da340448cd
-
-#EXTINF:-1 tvg-id="" tvg-name="euro4hd " tvg-logo="" group-title="Altro", euro4hd (Hd)
-http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport4%29/manifest.mpd&key_id=9dd7be79e44f4d08a91ec5d1553f17b8&key=8a62369f81a4b6e5f2d4846f7bd5e7d1
-
-#EXTINF:-1 tvg-id="" tvg-name="euro5hd " tvg-logo="" group-title="Altro", euro5hd (Hd)
-http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport5%29/manifest.mpd&key_id=b48e7e6d96da479da65e435ce65faeb1&key=48c703879ce4deedb5a2124a30a13bc4
-
-#EXTINF:-1 tvg-id="" tvg-name="euro6hd " tvg-logo="" group-title="Altro", euro6hd (Hd)
-http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport6%29/manifest.mpd&key_id=ead1c567a3df48619799b2e78b18fdfa&key=1de9d9af5651296aa67913979ad8c694
-
