@@ -23,7 +23,7 @@ Pagina Evento: https://thisnot.business/player.php?id=Eurosport1RG
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport3RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Philippe-Chatrier)'
-  Stato Estrazione: OK - Proxy generato: http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport3%29/manifest.mpd&key_id=1e2398b0eeb04829b4711e14b4a91244&key=11e26659ebfecf6a22ed56da340448cd
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport4RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Suzanne Lenglen)'

@@ -23,18 +23,6 @@
       "url": "https://thisnot.business/player.php?id=Eurosport1RG"
     }
   },
-  "https://thisnot.business/player.php?id=Eurosport3RG": {
-    "proxy_url": "http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport3%29/manifest.mpd&key_id=1e2398b0eeb04829b4711e14b4a91244&key=11e26659ebfecf6a22ed56da340448cd",
-    "info": {
-      "category": "TENNIS",
-      "title": "ROLAND GARROS - FRANCIA",
-      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
-      "event": "11:00 Live",
-      "channel": "Eurosport (Philippe-Chatrier)",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Eurosport3RG"
-    }
-  },
   "https://thisnot.business/player.php?id=Eurosport4RG": {
     "proxy_url": "http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport4%29/manifest.mpd&key_id=9dd7be79e44f4d08a91ec5d1553f17b8&key=8a62369f81a4b6e5f2d4846f7bd5e7d1",
     "info": {
