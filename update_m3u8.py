@@ -3,45 +3,51 @@ import argparse
 import sys
 from pathlib import Path
 
-def update_m3u8_links(file_path, old_domain, new_domain):
+def update_m3u8_links(file_path, old_string, new_string):
     """
-    Sostituisce il dominio nei link del file M3U8, gestendo intelligentemente i protocolli.
+    Sostituisce stringhe di link in un file M3U8.
+    - Se old_string non ha protocollo, sostituisce il dominio preservando/forzando il protocollo.
+    - Se old_string ha un protocollo, esegue una sostituzione letterale.
 
     Args:
         file_path (str): Percorso del file M3U8.
-        old_domain (str): Dominio da sostituire.
-        new_domain (str): Nuovo dominio.
+        old_string (str): La stringa/dominio da cercare.
+        new_string (str): La stringa/dominio con cui sostituire.
     """
     try:
-        # Leggi il contenuto del file
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
 
-        updated_content = ""
-        count = 0
+        pattern = ""
+        replacement = ""
         replacement_logic_info = ""
 
-        # NUOVA LOGICA: Controlla se il nuovo dominio specifica già un protocollo
-        if new_domain.startswith(('http://', 'https://')):
-            # CASO 1: Il nuovo dominio forza un protocollo (es. 'http://192.168.0.241').
-            # Sostituisci l'intero URL (http://vecchio.com o https://vecchio.com) con il nuovo URL completo.
-            pattern = rf'https?://{re.escape(old_domain)}'
-            replacement = new_domain
-            # re.subn è più efficiente: sostituisce e conta in una sola passata.
-            updated_content, count = re.subn(pattern, replacement, content)
-            replacement_logic_info = f"Sostituzione forzata con protocollo: {replacement}"
+        # NUOVA LOGICA: Controlla se l'input da sostituire include un protocollo.
+        if old_string.startswith(('http://', 'https://')):
+            # MODO 1: SOSTITUZIONE LETTERALE
+            # L'utente vuole sostituire una stringa esatta (es. "https://cattivo.link:8888").
+            pattern = re.escape(old_string)
+            replacement = new_string
+            replacement_logic_info = f"Sostituzione letterale: '{old_string}' → '{new_string}'"
         else:
-            # CASO 2: Il nuovo dominio non ha protocollo (es. '192.168.0.241').
-            # Preserva il protocollo originale (http o https) del link.
-            # Il pattern cattura il protocollo (https?://) nel gruppo 1.
-            pattern = rf'(https?://){re.escape(old_domain)}'
-            # La stringa di sostituzione usa un backreference (\1) per reinserire il protocollo catturato.
-            # fr'' è una f-string raw, perfetta per combinare variabili e backreference.
-            replacement = fr'\1{new_domain}'
-            updated_content, count = re.subn(pattern, replacement, content)
-            replacement_logic_info = f"{old_domain} → {new_domain} (protocollo originale preservato)"
+            # MODO 2: SOSTITUZIONE DI DOMINIO (logica precedente)
+            # L'utente vuole sostituire un dominio (es. "vecchio.com").
+            old_domain = old_string # Per chiarezza
+            
+            if new_string.startswith(('http://', 'https://')):
+                # Sostituzione forzando il nuovo protocollo.
+                pattern = rf'https?://{re.escape(old_domain)}'
+                replacement = new_string
+                replacement_logic_info = f"Sostituzione di dominio forzando il protocollo: {replacement}"
+            else:
+                # Sostituzione preservando il protocollo originale.
+                pattern = rf'(https?://){re.escape(old_domain)}'
+                replacement = fr'\1{new_string}'
+                replacement_logic_info = f"Sostituzione di dominio: {old_domain} → {new_string} (protocollo preservato)"
 
-        # Scrivi il file aggiornato solo se ci sono state modifiche
+        # Esegui la sostituzione e conta le occorrenze
+        updated_content, count = re.subn(pattern, replacement, content)
+
         if count > 0:
             with open(file_path, 'w', encoding='utf-8') as file:
                 file.write(updated_content)
@@ -50,7 +56,7 @@ def update_m3u8_links(file_path, old_domain, new_domain):
             print(f"📊 Sostituzioni effettuate: {count}")
             print(f"🔄 Logica applicata: {replacement_logic_info}")
         else:
-            print("ℹ️ Nessun link trovato con il dominio specificato. Nessuna modifica apportata.")
+            print(f"ℹ️ Nessuna occorrenza di '{old_string}' trovata con la logica applicata. Nessuna modifica apportata.")
 
         return True
 
@@ -63,23 +69,24 @@ def update_m3u8_links(file_path, old_domain, new_domain):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Aggiorna i domini nei link del file M3U8, gestendo intelligentemente i protocolli HTTP/HTTPS.",
+        description="Aggiorna i domini o i link completi in un file M3U8.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Esempi di utilizzo:
-  # Sostituzione con preservazione del protocollo originale (consigliato):
-  # (Se il link era http://... diventerà http://nuovo-dominio.com)
-  # (Se il link era https://... diventerà https://nuovo-dominio.com)
-  python update_m3u8.py --old vecchio.com --new nuovo-dominio.com
 
-  # Sostituzione con indirizzo IP locale (preserva http:// se era l'originale):
-  python update_m3u8.py --old vecchio.com --new 192.168.0.241
-
-  # Forzare un protocollo specifico (sostituisce sia http che https con quello specificato):
-  python update_m3u8.py --old vecchio.com --new http://192.168.0.241
-  python update_m3u8.py --old vecchio.com --new https://nuovo-dominio.com
+# MODALITÀ 1: SOSTITUZIONE DOMINIO (se --old non ha http/https)
+  # Preserva il protocollo originale (http->http, https->https)
+  python update_m3u8.py --old vecchio.com --new nuovo.com
   
-  # Specificare un file diverso:
+  # Forza il protocollo https per tutti i link
+  python update_m3u8.py --old vecchio.com --new https://nuovo.com
+
+# MODALITÀ 2: SOSTITUZIONE LETTERALE (se --old ha http/https)
+  # Utile per correggere un protocollo o una porta sbagliati
+  python update_m3u8.py --old https://192.168.0.240:8888 --new http://192.168.0.240:8888
+  python update_m3u8.py --old http://vecchio.com/cartella --new http://nuovo.com/altra
+
+# Specificare un file diverso:
   python update_m3u8.py -o vecchio.com -n nuovo.com --file playlist.m3u8
         """
     )
@@ -87,13 +94,13 @@ Esempi di utilizzo:
     parser.add_argument(
         '--old', '-o',
         required=True,
-        help='Dominio da sostituire (solo il dominio, senza http/https)'
+        help='Dominio (es. "vecchio.com") o link esatto (es. "https://link.errato") da sostituire.'
     )
     
     parser.add_argument(
         '--new', '-n',
         required=True,
-        help='Nuovo dominio. Se non specifichi http/https, verrà preservato il protocollo originale del link.'
+        help='Nuovo dominio o link con cui sostituire.'
     )
     
     parser.add_argument(
@@ -104,19 +111,14 @@ Esempi di utilizzo:
     
     args = parser.parse_args()
     
-    # Pulisci il vecchio dominio da eventuali protocolli per sicurezza
-    old_domain = args.old
-    if old_domain.startswith(('http://', 'https://')):
-        old_domain = re.sub(r'^https?://', '', old_domain)
-    
-    # Verifica che il file esista
     file_to_update = Path(args.file)
     if not file_to_update.exists():
         print(f"❌ Il file '{file_to_update}' non esiste.")
         sys.exit(1)
     
-    # Esegui l'aggiornamento
-    success = update_m3u8_links(file_to_update, old_domain, args.new)
+    # Esegui l'aggiornamento passando gli argomenti così come sono.
+    # La funzione deciderà la logica da usare.
+    success = update_m3u8_links(file_to_update, args.old, args.new)
     
     if not success:
         sys.exit(1)
