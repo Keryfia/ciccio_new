@@ -3,17 +3,17 @@ name: Update M3U8 Links
 on:
   workflow_dispatch:
     inputs:
-      old_domain:
-        description: 'Dominio da sostituire (senza http/https)'
+      old_string: # <--- MODIFICA (rinominato da old_domain)
+        description: 'Dominio (es. "vecchio.com") o link esatto (es. "https://link.errato") da sostituire.' # <--- MODIFICA (descrizione più chiara)
         required: true
         default: 'keryfia-newale.hf.space'
         type: string
-      new_domain:
-        description: 'Nuovo dominio (con o senza http/https)'
+      new_string: # <--- MODIFICA (rinominato da new_domain)
+        description: 'Nuovo dominio o link con cui sostituire.' # <--- MODIFICA (descrizione più chiara)
         required: true
         type: string
       commit_message:
-        description: 'Messaggio del commit'
+        description: 'Messaggio del commit (opzionale)'
         required: false
         default: 'Update M3U8 links'
         type: string
@@ -33,7 +33,8 @@ jobs:
         
     - name: Update M3U8 links
       run: |
-        python update_m3u8.py --old "${{ github.event.inputs.old_domain }}" --new "${{ github.event.inputs.new_domain }}"
+        # Usa i nuovi nomi delle variabili di input
+        python update_m3u8.py --old "${{ github.event.inputs.old_string }}" --new "${{ github.event.inputs.new_string }}" # <--- MODIFICA
         
     - name: Check for changes
       id: check_changes
@@ -50,10 +51,11 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add listone.m3u8
-        git commit -m "${{ github.event.inputs.commit_message }}: ${{ github.event.inputs.old_domain }} → ${{ github.event.inputs.new_domain }}"
+        # Aggiorna il messaggio del commit per usare i nuovi nomi
+        git commit -m "${{ github.event.inputs.commit_message }}: ${{ github.event.inputs.old_string }} → ${{ github.event.inputs.new_string }}" # <--- MODIFICA
         git push
         
     - name: No changes detected
       if: steps.check_changes.outputs.changes == 'false'
       run: |
-        echo "ℹ️ Nessuna modifica da committare. Il dominio potrebbe essere già aggiornato."
+        echo "ℹ️ Nessuna modifica da committare. Il file potrebbe essere già aggiornato."
