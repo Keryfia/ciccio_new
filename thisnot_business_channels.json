@@ -11,6 +11,30 @@
       "url": "https://thisnot.business/player.php?id=SportCalcio_IT"
     }
   },
+  "https://thisnot.business/player.php?id=Rai1": {
+    "proxy_url": "http://192.168.0.241:8888/proxy/hls/manifest.m3u8?d=https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
+      "date": "SABATO 7 GIUGNO (Ritorno)",
+      "event": "20:45 Norvegia - Italia",
+      "channel": "Rai",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Rai1"
+    }
+  },
+  "https://thisnot.business/player.php?id=Rai1x": {
+    "proxy_url": "http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "SERIE C PLAYOFF, FINALE - ITALIA",
+      "date": "SABATO 7 GIUGNO (Ritorno)",
+      "event": "20:45 Norvegia - Italia",
+      "channel": "Rai",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Rai1x"
+    }
+  },
   "https://thisnot.business/player.php?id=Eurosport1RG": {
     "proxy_url": "http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
     "info": {
@@ -45,6 +69,18 @@
       "channel": "Eurosport (Suzanne Lenglen)",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=Eurosport4RG"
+    }
+  },
+  "https://thisnot.business/player.php?id=Eurosport5RG": {
+    "proxy_url": "http://192.168.0.241:8888/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport5%29/manifest.mpd&key_id=b48e7e6d96da479da65e435ce65faeb1&key=48c703879ce4deedb5a2124a30a13bc4",
+    "info": {
+      "category": "TENNIS",
+      "title": "ROLAND GARROS - FRANCIA",
+      "date": "LUNEDI 26 MAGGIO - DOMENICA 8 GIUGNO",
+      "event": "11:00 Live",
+      "channel": "Eurosport (Simonne-Mathieu)",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Eurosport5RG"
     }
   },
   "https://thisnot.business/player.php?id=Eurosport2_IT": {
