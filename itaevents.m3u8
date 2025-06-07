@@ -653,7 +653,7 @@ http://192.168.0.240:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embe
 #EXTINF:-1 tvg-id="NBL - Manawatu Jets vs Nelson Giants" tvg-name="02:00 NBL : Manawatu Jets vs Nelson Giants - 07/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Manawatu%20Jets_vs_Nelson%20Giants.png" group-title="Basket - 02:00 NBL : Manawatu Jets vs Nelson Giants - 07/06/25", Sky Sport 5 NZ
 http://192.168.0.240:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-592.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://aucklandtuatara.com/wp-content/uploads/2022/07/cropped-Auckland_Tuatara_Favicon.png" group-title="Basket - 04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25", Sky Sport 4 NZ
+#EXTINF:-1 tvg-id="NBL - Auckland Tuatara vs Tauranga Whai" tvg-name="04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25" tvg-logo="https://aucklandtuatara.com/wp-content/uploads/2022/07/Auckland_Tuatara_Favicon.png" group-title="Basket - 04:00 NBL : Auckland Tuatara vs Tauranga Whai - 07/06/25", Sky Sport 4 NZ
 http://192.168.0.240:8888/extractor/video?host=DLHD&d=https://daddylive.dad/embed/stream-591.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WNBA - Seattle Storm vs Phoenix Mercury" tvg-name="04:00 WNBA : Seattle Storm vs Phoenix Mercury - 07/06/25" tvg-logo="https://raw.githubusercontent.com/Keryfia/ciccio_new/main/logos/Seattle%20Storm_vs_Phoenix%20Mercury.png" group-title="Basket - 04:00 WNBA : Seattle Storm vs Phoenix Mercury - 07/06/25", WNBA League Pass
