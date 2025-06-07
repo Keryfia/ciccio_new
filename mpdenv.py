@@ -19,10 +19,11 @@ def update_proxy_links(m3u8_filepath, env_filepath):
 
     print(f"Utilizzo del proxy base URL: {proxy_base_url}")
 
-    # Estrarre l'hostname e il percorso dal proxy_base_url per la sostituzione
+    # Configurazione per le sostituzioni
     from urllib.parse import urlparse
     proxy_url_parts = urlparse(proxy_base_url)
     proxy_hostname = f"{proxy_url_parts.scheme}://{proxy_url_parts.hostname}:{proxy_url_parts.port}"
+    placeholder = "{MPDPROXYMFP}"
     
     lines_to_write = []
     updated_count = 0
@@ -40,18 +41,25 @@ def update_proxy_links(m3u8_filepath, env_filepath):
                 lines_to_write.append(original_line)
                 continue
             
-            # Cerca qualsiasi URL che contenga "proxy/mpd/manifest.m3u8"
-            if "proxy/mpd/manifest.m3u8" in stripped_line:
-                # Estrai l'hostname corrente dall'URL
+            modified_content = stripped_line
+            
+            # Caso 1: Sostituisci il placeholder se presente
+            if placeholder in stripped_line:
+                modified_content = stripped_line.replace(placeholder, proxy_base_url.rstrip('/'))
+                if modified_content != stripped_line:
+                    processed_line = modified_content + '\n'
+                    updated_count += 1
+            
+            # Caso 2: Aggiorna l'hostname negli URL esistenti
+            elif "proxy/mpd/manifest.m3u8" in stripped_line:
                 current_url_parts = urlparse(stripped_line.split("?")[0])
-                current_hostname = f"{current_url_parts.scheme}://{current_url_parts.hostname}:{current_url_parts.port}"
-                
-                # Sostituisci solo l'hostname mantenendo il resto dell'URL
-                if current_hostname != proxy_hostname:
-                    modified_content = stripped_line.replace(current_hostname, proxy_hostname)
-                    if modified_content != stripped_line:
-                        processed_line = modified_content + '\n'
-                        updated_count += 1
+                if current_url_parts.hostname and current_url_parts.port:  # Verifica che l'URL sia valido
+                    current_hostname = f"{current_url_parts.scheme}://{current_url_parts.hostname}:{current_url_parts.port}"
+                    if current_hostname != proxy_hostname:
+                        modified_content = stripped_line.replace(current_hostname, proxy_hostname)
+                        if modified_content != stripped_line:
+                            processed_line = modified_content + '\n'
+                            updated_count += 1
                     
             lines_to_write.append(processed_line)
 
@@ -71,9 +79,14 @@ def update_proxy_links(m3u8_filepath, env_filepath):
         print(f"Si è verificato un errore: {e}")
 
 if __name__ == "__main__":
+    import sys
+    
     # Definisci i percorsi relativi allo script
     script_dir = Path(__file__).resolve().parent
-    m3u8_file = script_dir / "mpd.m3u8" # Assumendo che mpd.m3u8 sia nella stessa cartella
+    
+    # Usa il file specificato come argomento o usa mpd.m3u8 come default
+    m3u8_filename = sys.argv[1] if len(sys.argv) > 1 else "mpd.m3u8"
+    m3u8_file = script_dir / m3u8_filename
     env_file = script_dir / ".env"      # Assumendo che .env sia nella stessa cartella
 
     update_proxy_links(m3u8_file, env_file)
