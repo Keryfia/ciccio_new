@@ -1295,52 +1295,52 @@ http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_pas
 #EXTINF:-1 tvg-id="FIH Pro League - Netherlands vs Argentina" tvg-name="16:00 FIH Pro League : Netherlands vs Argentina - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Hockey Su Prato", SuperSport Football
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-56.php
 
-#EXTINF:-1 tvg-id="Diallo G. vs Humbert U. - Diallo G. vs Humbert U." tvg-name="14:30 Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
 
-#EXTINF:-1 tvg-id="Diallo G. vs Humbert U. - Diallo G. vs Humbert U." tvg-name="14:30 Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1509.php
 
-#EXTINF:-1 tvg-id="Opelka R. vs Bergs Z. - Opelka R. vs Bergs Z." tvg-name="16:00 Opelka R. vs Bergs Z. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Opelka R. vs Bergs Z." tvg-name="16:00 ATP - HERTOGENBOSCH : Opelka R. vs Bergs Z. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1509.php
 
-#EXTINF:-1 tvg-id="Opelka R. vs Bergs Z. - Opelka R. vs Bergs Z." tvg-name="16:00 Opelka R. vs Bergs Z. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Opelka R. vs Bergs Z." tvg-name="16:00 ATP - HERTOGENBOSCH : Opelka R. vs Bergs Z. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1507.php
 
-#EXTINF:-1 tvg-id="Auger-Aliassime F. vs Fritz T. - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1506.php
 
-#EXTINF:-1 tvg-id="Auger-Aliassime F. vs Fritz T. - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Auger-Aliassime F. vs Fritz T." tvg-name="12:00 ATP - STUTTGART : Auger-Aliassime F. vs Fritz T. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="Zverev A. vs Shelton B. - Zverev A. vs Shelton B." tvg-name="14:00 Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Shelton B." tvg-name="14:00 ATP - STUTTGART : Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1506.php
 
-#EXTINF:-1 tvg-id="Zverev A. vs Shelton B. - Zverev A. vs Shelton B." tvg-name="14:00 Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Shelton B." tvg-name="14:00 ATP - STUTTGART : Zverev A. vs Shelton B. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Stuttgart", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1508.php
 
-#EXTINF:-1 tvg-id="Mertens E. vs Alexandrova E. - Mertens E. vs Alexandrova E." tvg-name="11:00 Mertens E. vs Alexandrova E. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Mertens E. vs Alexandrova E." tvg-name="11:00 WTA - HERTOGENBOSCH : Mertens E. vs Alexandrova E. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1503.php
 
-#EXTINF:-1 tvg-id="Ruse G. vs Cocciaretto E. - Ruse G. vs Cocciaretto E." tvg-name="12:30 Ruse G. vs Cocciaretto E. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Cocciaretto E." tvg-name="12:30 WTA - HERTOGENBOSCH : Ruse G. vs Cocciaretto E. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1503.php
 
-#EXTINF:-1 tvg-id="Maria T. vs Keys M. - Maria T. vs Keys M." tvg-name="14:30 Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="Maria T. vs Keys M. - Maria T. vs Keys M." tvg-name="14:30 Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1518.php
 
-#EXTINF:-1 tvg-id="Maria T. vs Keys M. - Maria T. vs Keys M." tvg-name="14:30 Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1520.php
 
-#EXTINF:-1 tvg-id="Zheng Q. vs Anisimova A. - Zheng Q. vs Anisimova A." tvg-name="16:00 Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Anisimova A." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1501.php
 
-#EXTINF:-1 tvg-id="Zheng Q. vs Anisimova A. - Zheng Q. vs Anisimova A." tvg-name="16:00 Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Anisimova A." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1518.php
 
-#EXTINF:-1 tvg-id="Zheng Q. vs Anisimova A. - Zheng Q. vs Anisimova A." tvg-name="16:00 Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Anisimova A." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - London", Tennis Stream
 http://192.168.1.240:8888/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/stream/stream-1520.php
 
 #EXTINF:-1 tvg-id="ATP Stuttgart Tournament (T2025) - Semi-final 1" tvg-name="12:00 ATP Stuttgart Tournament (T2025): Semi-final 1 - 14/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
